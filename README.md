@@ -37,9 +37,9 @@ https://www.mediawiki.org/wiki/REST_API
 ## Data
 
 ```
-  Column      	      	  | Description |
+| Column      	      	  | Description |
 | ----------------------- | ----------- |
-| pagecount_all_views     | Sum of the pagecount_desktop_views and pagecount_mobile_views values. |
+| pagecount_all_views     | Sum of the pagecount_desktop_views and pagecount_mobile_views values.|
 | pagecount_desktop_views | The number of page accesses from the Pagecounts API for the 'desktop-site' 'access-site' value.| 
 | pagecount_mobile_views  | The number of page accesses from the Pagecounts API for the 'mobile-site' 'access-site' value|
 | pageview_all_views      | Sum of the pageview_desktop_views and pageview_mobile_views values. |
