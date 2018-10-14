@@ -36,18 +36,15 @@ https://www.mediawiki.org/wiki/REST_API
 
 ## Data
 
-```
-| Column      	      	  | Description |
-| ----------------------- | ----------- |
-| pagecount_all_views     | Sum of the pagecount_desktop_views and pagecount_mobile_views values.|
-| pagecount_desktop_views | The number of page accesses from the Pagecounts API for the 'desktop-site' 'access-site' value.| 
-| pagecount_mobile_views  | The number of page accesses from the Pagecounts API for the 'mobile-site' 'access-site' value|
+| Column                  | Description                                                  |
+| ----------------------- | ------------------------------------------------------------ |
+| pagecount_all_views     | Sum of the pagecount_desktop_views and pagecount_mobile_views values. |
+| pagecount_desktop_views | The number of page accesses from the Pagecounts API for the 'desktop-site' 'access-site' value. |
+| pagecount_mobile_views  | The number of page accesses from the Pagecounts API for the 'mobile-site' 'access-site' value. |
 | pageview_all_views      | Sum of the pageview_desktop_views and pageview_mobile_views values. |
 | pageview_desktop_views  | The number of page accesses from the Pageviews API for the 'desktop' 'access' value, for the 'user' 'agent' value. |
-| pageview_mobile_views   | The number of page accesses from the Pageviews API for the 'mobile-app' and 'mobile-web' 'access' values, for the 'user' 'agent' value.|
-| year                    | Four digit year for the counts in this row. |
-| month                   | Two digit month for the counts in this row. |
+| pageview_mobile_views   | The number of page accesses from the Pageviews API for the 'mobile-app' and 'mobile-web' 'access' values, for the 'user' 'agent' value. |
+| year                    | Four digit year for the counts in this row.                  |
+| month                   | Two digit month for the counts in this row.                  |
+|                         |                                                              |
 
-```
-
- 
