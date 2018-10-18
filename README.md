@@ -48,3 +48,7 @@ https://www.mediawiki.org/wiki/REST_API
 | month                   | Two digit month for the counts in this row.                  |
 |                         |                                                              |
 
+## Known Issues
+
+One thing that should be taken into consideration is the fact that the Pagecounts API is the fact that it includes traffic from both spiders as well as visitors. This should be taken into consideration while using data from this API. The newer Pageviews API allows us to differentiate between traffic from spiders and users, giving us a better level of granularity. 
+
